@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
 
 
-![ilkRepoEkranGoruntusu](C:\Users\takip\OneDrive\Masaüstü\ilkRepoEkranGoruntusu.jpg)
+![ilkRepoEkranGoruntusu](https://github.com/seyfettingocmen/kodluyoruzilkrepo/blob/main/ilkRepoEkranGoruntusu.jpg)
 
 
 
